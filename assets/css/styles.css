@@ -20,7 +20,7 @@
     font-family: 'Handlee', cursive;
     color: #ffebd4;
 }
-.btn {
+#contact .btn {
     color: #3b2f2f;
 }
 /* Set height for service images */
@@ -48,3 +48,4 @@ h2 {
 .thanks {
     font-family: 'Handlee', cursive;
 }
+
