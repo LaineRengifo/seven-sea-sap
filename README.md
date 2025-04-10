@@ -47,11 +47,15 @@ The website is fully responsive and adapts seamlessly to different screen sizes:
 3. Navigate through the sections using the navbar or scroll down to explore the content.
 
 ## Folder Structure
+
+The project is organized as follows:
+
+```
 seven-sea-spa/
-├── assets/
-│   ├── css/
-│   │   └── styles.css
-│   ├── images/
+├── assets/               # Contains all static assets
+│   ├── css/              # Stylesheets
+│   │   └── styles.css    # Main CSS file
+│   ├── images/           # Image assets
 │   │   ├── yoga.png
 │   │   ├── nutrition.png
 │   │   ├── mental_health.png
@@ -59,11 +63,12 @@ seven-sea-spa/
 │   │   ├── testimonial1.png
 │   │   ├── testimonial2.png
 │   │   └── testimonial3.png
-├── index.html
-├── services.html
-├── about.html
-├── contact.html
-└── README.md
+├── index.html            # Homepage
+├── services.html         # Services page
+├── about.html            # About page
+├── contact.html          # Contact page
+└── README.md             # Project documentation
+```
 
 ## Future Enhancements
 - Add a booking system for scheduling spa appointments.
